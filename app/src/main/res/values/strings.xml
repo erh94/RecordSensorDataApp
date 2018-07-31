@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">173059004_RecordSensorData</string>
+    <string-array name="actionbar_dropdown_names">
+        <item> </item>
+        <item>Login</item>
+        <item>Sensors</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
